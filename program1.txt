@@ -1,0 +1,4 @@
+write program1 in java
+1.make program1 
+2.select the program1
+3.run
